@@ -1,0 +1,18 @@
+{
+    "name": "smart-contract",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Phan Minh Hung",
+    "license": "ISC",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+        "hardhat": "^2.19.2"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.7.3"
+    }
+}
